@@ -1,7 +1,7 @@
 ## Andrii Asmolovskyi
 
-rustc
-cargo
+rustc проверка установлен ли rust
+cargo проверка установлен ли cargo
 
-rustc main.rs
-./main.exe
+rustc main.rs компиляция файла main.exe / main.pdb
+./main.exe запуск скопмилированного файла main.exe
