@@ -1,7 +1,7 @@
 ## Andrii Asmolovskyi
 
 # install RUST in the site (rust-lang.org)
-after installation rebbot the terminal
+after installation reboot the terminal
 
 rustc - checking whether the rast is installed
 cargo - checking whether the cargo is installed
