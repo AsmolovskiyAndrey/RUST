@@ -1,7 +1,10 @@
 ## Andrii Asmolovskyi
 
-rustc проверка установлен ли rust
-cargo проверка установлен ли cargo
+# install RUST in the site (rust-lang.org)
+after installation rebbot the terminal
 
-rustc main.rs компиляция файла main.exe / main.pdb
-./main.exe запуск скопмилированного файла main.exe
+rustc - checking whether the rast is installed
+cargo - checking whether the cargo is installed
+
+rustc main.rs - file compilation to main.exe / main.pdb
+./main.exe - running the compiled file main.exe
