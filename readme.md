@@ -6,5 +6,6 @@ after installation rebbot the terminal
 rustc - checking whether the rast is installed
 cargo - checking whether the cargo is installed
 
-rustc main.rs - file compilation to main.exe / main.pdb
-./main.exe - running the compiled file main.exe
+# For comfortable work you will need to install two extensions (rust analyzer, code runner)
+1) rustc main.rs - file compilation to main.exe / main.pdb (os windows) or main (os mac) or click "run" in Visual Studio
+./main.exe - running the compiled file main.exe (os windows) or ./main (os mac) or click "run" in Visual Studio
