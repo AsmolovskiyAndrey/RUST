@@ -1,6 +1,6 @@
 ## Andrii Asmolovskyi
 
-# install RUST in the site (rust-lang.org)
+[install RUST in the site](https://www.rust-lang.org/)
 after installation reboot the terminal
 
 rustc - checking whether the rast is installed
