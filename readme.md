@@ -1,7 +1,4 @@
 ## Andrii Asmolovskyi
 
-rustc проверка установлен ли rust
-cargo проверка установлен ли cargo
-
-rustc main.rs компиляция файла main.exe / main.pdb
-./main.exe запуск скопмилированного файла main.exe
+# rustc  - checking whether it is installed rust
+# cargo - checking whether it is installed cargo
