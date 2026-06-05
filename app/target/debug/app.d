@@ -1,1 +1,1 @@
-D:\Developer\Rust_project\RUST\app\target\debug\app.exe: D:\Developer\Rust_project\RUST\app\src\main.rs
+/Users/andriiasmolovskyi/Desktop/workspace/Lessons/RUST/app/target/debug/app: /Users/andriiasmolovskyi/Desktop/workspace/Lessons/RUST/app/src/main.rs
